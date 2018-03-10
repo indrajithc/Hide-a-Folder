@@ -1,0 +1,9 @@
+G:\Visual Studio 2015\LockAFolder\LockAFolder\bin\Debug\LockAFolder.exe.config
+G:\Visual Studio 2015\LockAFolder\LockAFolder\bin\Debug\LockAFolder.exe
+G:\Visual Studio 2015\LockAFolder\LockAFolder\bin\Debug\LockAFolder.pdb
+G:\Visual Studio 2015\LockAFolder\LockAFolder\obj\Debug\LockAFolder.Form1.resources
+G:\Visual Studio 2015\LockAFolder\LockAFolder\obj\Debug\LockAFolder.Properties.Resources.resources
+G:\Visual Studio 2015\LockAFolder\LockAFolder\obj\Debug\LockAFolder.csproj.GenerateResource.Cache
+G:\Visual Studio 2015\LockAFolder\LockAFolder\obj\Debug\LockAFolder.exe
+G:\Visual Studio 2015\LockAFolder\LockAFolder\obj\Debug\LockAFolder.pdb
+G:\Visual Studio 2015\LockAFolder\LockAFolder\obj\Debug\LockAFolder.csprojResolveAssemblyReference.cache
